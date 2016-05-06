@@ -1,0 +1,28 @@
+name: BookCloud
+favicon: null
+layout_spectrum: 0.07526729651726782
+typography_spectrum: 0.9880060534924269
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5044281086884439
+  lightness: 0.055450057378038764
+  saturation: 0.6350924903526902
+  rhythmicContrast: 0.6168983762618154
+purpose: []
