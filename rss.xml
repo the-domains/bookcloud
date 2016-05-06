@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BookCloud]]></title>
         <description><![CDATA[BookCloud]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bookcloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 04:22:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 04:22:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bookcloud/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f4b025-9c9a-4bd1-9b7a-3e3554102fba.png">]]></description>
-            <link>undefined0e4fce2f-a5d5-463b-b65d-eaaa50a9e645/index.html</link>
+            <link>https://thegrid.ai/bookcloud/0e4fce2f-a5d5-463b-b65d-eaaa50a9e645/index.html</link>
             <guid isPermaLink="false">0e4fce2f-a5d5-463b-b65d-eaaa50a9e645</guid>
-            <pubDate>Fri, 06 May 2016 04:21:55 GMT</pubDate>
+            <pubDate>Fri, 06 May 2016 04:22:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
